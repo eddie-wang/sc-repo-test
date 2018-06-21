@@ -1,0 +1,1 @@
+{"SchemaVersion":"1.0","ProductVersionName":"newversion","ProductVersionDescription":"version_description_from_configuration_JSON","ProductType":"CLOUD_FORMATION_TEMPLATE","Properties":{"TemplateFilePath":"/s3.yaml"}}
